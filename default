@@ -3,7 +3,7 @@ server {
 
     root /usr/share/nginx/html;
 
-    index index.html index.htm index.php;
+    index index.html index.htm index.php app_dev.php;
 
     server_name _;
 

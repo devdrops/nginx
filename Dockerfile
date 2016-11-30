@@ -5,7 +5,7 @@ MAINTAINER Davi Marcondes Moreira <davi.marcondes.moreira@gmail.com>
 ARG VCS_REF
 ARG BUILD_DATE
 
-LABEL org.label-schema.name="Docker/nginx" \
+LABEL org.label-schema.name="Devdrops/nginx" \
       org.label-schema.vcs-ref=$VCS_REF \
       org.label-schema.build-date=$BUILD_DATE \
       org.label-schema.vcs-url="https://github.com/devdrops/nginx" \
